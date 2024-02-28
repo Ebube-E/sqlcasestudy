@@ -1,0 +1,6 @@
+StaffID,FirstName,LastName,Position,ContactNumber,Email
+501,David,Johnson,Manager,555-111-1111,david.johnson@email.com
+502,Sarah,Anderson,Sales Rep,555-222-2222,sarah.anderson@email.com
+503,Michael,Davis,Sales Rep,555-333-3333,michael.davis@email.com
+504,Emily,Smith,Admin,555-444-4444,emily.smith@email.com
+505,Jessica,Lee,Sales Rep,555-555-5555,jessica.lee@email.com

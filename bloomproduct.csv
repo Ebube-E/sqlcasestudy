@@ -1,0 +1,21 @@
+ProductID,ProductName,Brand,Model,Type,Size,Price,Description,WarrantyPeriod
+201,TV,Samsung,QLED123,Smart,55,1500,55-inch Smart QLED TV with 4K UHD display,1 year
+202,TV,Sony,Bravia456,4K UHD,65,2000,65-inch 4K UHD LED Smart TV,2 years
+203,TV,LG,OLED789,OLED,75,1800,75-inch OLED Smart TV with Dolby Vision,1 year
+204,TV,Samsung,QLED456,Smart,50,1200,50-inch Smart QLED TV with 4K UHD display,2 years
+205,TV,Sony,Bravia789,4K UHD,55,1700,55-inch 4K UHD LED Smart TV,1 year
+206,TV,LG,OLED123,OLED,65,2200,65-inch OLED Smart TV with Dolby Vision,3 years
+207,TV,Samsung,QLED789,Smart,60,1900,60-inch Smart QLED TV with 4K UHD display,1 year
+208,TV,Sony,Bravia101,4K UHD,70,2300,70-inch 4K UHD LED Smart TV,2 years
+209,TV,LG,OLED456,OLED,55,1600,55-inch OLED Smart TV with Dolby Vision,1 year
+210,TV,Samsung,QLED101,Smart,65,2500,65-inch Smart QLED TV with 4K UHD display,2 years
+211,TV,Sony,Bravia203,4K UHD,75,2700,75-inch 4K UHD LED Smart TV,1 year
+212,TV,LG,OLED101,OLED,70,2400,70-inch OLED Smart TV with Dolby Vision,3 years
+213,TV,Samsung,QLED203,Smart,55,1500,55-inch Smart QLED TV with 4K UHD display,1 year
+214,TV,Sony,Bravia304,4K UHD,65,2000,65-inch 4K UHD LED Smart TV,2 years
+215,TV,LG,OLED304,OLED,75,1800,75-inch OLED Smart TV with Dolby Vision,1 year
+216,TV,Samsung,QLED304,Smart,50,1200,50-inch Smart QLED TV with 4K UHD display,2 years
+217,TV,Sony,Bravia507,4K UHD,55,1700,55-inch 4K UHD LED Smart TV,1 year
+218,TV,LG,OLED507,OLED,65,2200,65-inch OLED Smart TV with Dolby Vision,3 years
+219,TV,Samsung,QLED507,Smart,60,1900,60-inch Smart QLED TV with 4K UHD display,1 year
+220,TV,Sony,Bravia609,4K UHD,70,2300,70-inch 4K UHD LED Smart TV,2 years
